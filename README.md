@@ -22,3 +22,6 @@ This is a backend-style simulation of REST API logic without using frameworks li
 
 ## Author
 Sahana Kabothu
+
+## Update
+Added better documentation for understanding
